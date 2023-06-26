@@ -1,0 +1,17 @@
+[
+  {
+    "id": "novdk3hCZ3T90wtKtu0XGe+91Hc=",
+    "mf": "C8H10O",
+    "idCodeHash": "86200d52beb93183ee69cb115025e233",
+    "file": "./10_First/Serie A/index.json",
+    "title": "Serie A",
+    "selected": true
+  },
+  {
+    "id": "ykXdOPt0xgaSeWkGtDPLNpuBfGA=",
+    "mf": "C3H6O",
+    "idCodeHash": "7fa7d7b32a47c289c25df930826901de",
+    "file": "./10_First/Serie B/index.json",
+    "title": "Serie B"
+  }
+]
